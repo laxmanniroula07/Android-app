@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/loginbgimg"
+    tools:context=".Update">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            app:cardCornerRadius="30dp"
+            app:cardElevation="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_gravity="center_horizontal"
+                android:padding="20dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Edit Items"
+                    android:textSize="30sp"
+                    android:textAlignment="center"
+                    android:textColor="@color/lavender"/>
+
+                <ImageView
+                    android:layout_width="210dp"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/imgupload"
+                    android:id="@+id/updateImage"
+                    android:layout_marginTop="10dp"
+                    android:scaleType="fitXY"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:id="@+id/updateTitle"
+                    android:layout_marginTop="20dp"
+                    android:padding="16dp"
+                    android:hint="Enter Items  Name"
+                    android:gravity="start|center_vertical"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:id="@+id/updateDesc"
+                    android:layout_marginTop="20dp"
+                    android:padding="16dp"
+                    android:hint="Enter Description"
+                    android:gravity="start|center_vertical"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"/>
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:id="@+id/updatepri"
+                    android:layout_marginTop="20dp"
+                    android:padding="16dp"
+                    android:hint="Enter Price ~"
+                    android:textStyle="bold"
+                    android:gravity="start|center_vertical"
+                    android:textColor="@color/black"/>
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:text="Edit Item"
+                    android:id="@+id/updateButton"
+                    android:textSize="18dp"
+                    android:layout_marginTop="20dp"
+                    app:cornerRadius = "40dp"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+
+
+</ScrollView>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Recycler_item"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="8dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/recImage"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/imgupload" />
+
+        <TextView
+            android:id="@+id/recTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/recImage"
+            android:text="Title"
+            android:textColor="@color/black"
+            android:textSize="22sp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/recprice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/recTitle"
+            android:layout_toEndOf="@id/recImage"
+            android:text="Price"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/recDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/recprice"
+            android:layout_toEndOf="@id/recImage"
+            android:maxLines="1"
+            android:text="Description"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="8dp" />
+
+        <CheckBox
+            android:id="@+id/checkboxPurchased"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/recDesc"
+            android:layout_alignParentEnd="true"
+            android:text="Purchased"
+            android:textColor="@color/black"
+            android:checked="false"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="8dp"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

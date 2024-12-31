@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Circu.it</string>
+
+    //main activity page
+    <string name="welcome">Welcome to Circu.it</string>
+
+    //signup page
+    <string name="signup_title">Sign Up</string>
+    <string name="signup_name">Name</string>
+    <string name="signup_namehint">Enter your full name</string>
+    <string name="signup_username">Username</string>
+    <string name="signup_usernamehint">Enter your username</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_passwordhint">Enter your  password</string>
+    <string name="signup_confirmpassword">Confirm password</string>
+    <string name="signup_confirmpasswordhint">Confirm password</string>
+    <string name="signup_checkbox">I agree to the Terms of Users</string>
+    <string name="signup_signup">SignUp</string>
+    <string name="signup_login">LogIn</string>
+
+    //login page
+    <string name="login_title">LogIn</string>
+    <string name="login_username">Username</string>
+    <string name="login_usernamehint">Enter your username</string>
+    <string name="login_password">Password</string>
+    <string name="login_passwordhint">Enter your  password</string>
+    <string name="login_eye">Eye image</string>
+    <string name="login_forgetpass">Forget password?</string>
+    <string name="login_login">LogIn</string>
+    <string name="login_signupusing">Or Sign Up Using</string>
+    <string name="login_signupgoogle">Google login option</string>
+    <string name="login_signupleft">Don\'t have an account,</string>
+    <string name="login_signupright">Create New?</string>
+
+    //forget password
+    <string name="fortitle">Password Recovery</string>
+    <string name="fordesc">Enter your registered username and we will send you a link to reset your password</string>
+    <string name="foremailhint">Enter your username</string>
+    <string name="fornextbtn">OK</string>
+    <string name="forcancelbtn">Cancel</string>
+
+    //home page
+    <string name="noitem">No items available</string>
+    <string name="addimg">Add item icon</string>
+
+    //additem page
+    <string name="additemtitle">Add Item</string>
+    <string name="additemaddimage">Add Product image</string>
+    <string name="additemaddimagedesc">Add image of your choice product </string>
+    <string name="additemimgtitle">Title</string>
+    <string name="additemimgtitlehint">Give name of the item</string>
+    <string name="additemprice">Price</string>
+    <string name="additempricehint">Provide price of the item</string>
+    <string name="additemlocation">Location</string>
+    <string name="additemlocationhint">Provide location of the item</string>
+    <string name="additemdesc">Description</string>
+    <string name="additemdeschint">Provide description of the item</string>
+    <string name="additemaddbtn">Add Item</string>
+    <string name="additemcancelbtn">Cancel</string>
+
+    //item adapter page
+    <string name="itemadapimgdesc">Image of the item</string>
+    <string name="itemadaptitle">Title</string>
+    <string name="itemadapprice">Price</string>
+    <string name="itemadaplocation">Location</string>
+    <string name="itemadapdesc">Description</string>
+
+    //show item page
+    <string name="showitemTitle">Item Details</string>
+    <string name="showitemitemTitle">Title:</string>
+    <string name="showitemitemPrice">Price:</string>
+    <string name="showitemitemLocation">Location:</string>
+    <string name="showitemitemDesc">Description:</string>
+    <string name="editbtn">Edit</string>
+    <string name="deletebtn">Delete</string>
+    <string name="sharebtn">Share</string>
+
+    //edit item page
+    <string name="editItemTitle">Edit Item</string>
+    <string name="editItemItemTitle">Title</string>
+    <string name="editItemItemTitlehint">Enter Title</string>
+    <string name="editItemItemPrice">Price</string>
+    <string name="editItemItemPricehint">Enter Price</string>
+    <string name="editItemItemLocation">Location</string>
+    <string name="editItemItemLocationhint">Enter Location</string>
+    <string name="editItemItemDiscription">Discription</string>
+    <string name="editItemItemDiscriptionhint">Enter Discription</string>
+    <string name="savebtn">Save</string>
+    <string name="cancelbtn">Cancel</string>
+
+    //share item page
+    <string name="shareItemTitle">Share Item</string>
+    <string name="shareItemdesc">Enter the number below to share item details</string>
+
+    //purchased item page
+    <string name="purchasedItemTitle">Purchased Items</string>
+    <string name="purchasedItemCancel">Cancel</string>
+
+</resources>

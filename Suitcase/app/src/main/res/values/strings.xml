@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Suitcase</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="welcome_to_red_suitcase">Welcome to red Suitcase</string>
+    <string name="username">UserName</string>
+    <string name="email">Email</string>
+    <string name="log_in_from_here">Log in From Here.</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="register">Register</string>
+    <string name="password">password</string>
+    <string name="Username">username</string>
+    <string name="create_account">Create Account</string>
+    <string name="todo">TODO</string>
+    <string name="Password">Password</string>
+    <string name="forget_your_password">Forget Your password?</string>
+    <string name="log_in">Log in</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_account_from_here">Create Account from Here</string>
+    <string name="UserName">Username</string>
+    <string name="Login">Log In</string>
+    <string name="Welcome">Welcome to red Suitcase</string>
+    <string name="TODO">TODO</string>
+    <string name="login">Login</string>
+    <string name="lorem_ipsum" />
+    <string name="pass">Password</string>
+
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lets_explore">lets explore</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <string name="user_name">User Name</string>
+    <string name="share">share</string>
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-mergeDebugResources-40:\\layout\\activity_show_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-main-43:\\layout\\activity_show_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-mergeDebugResources-40:\\layout\\activity_item_adapter.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-main-43:\\layout\\activity_item_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-mergeDebugResources-40:\\layout\\activity_edit_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-main-43:\\layout\\activity_edit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-mergeDebugResources-40:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-main-43:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-mergeDebugResources-40:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-mergeDebugResources-40:\\layout\\activity_forget_password.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-main-43:\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "com.example.suitcase.app-mergeDebugResources-40:/layout/activity_share_item.xml",
+        "source": "com.example.suitcase.app-main-43:/layout/activity_share_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-mergeDebugResources-40:\\layout\\activity_add_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-main-43:\\layout\\activity_add_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-mergeDebugResources-40:\\layout\\activity_purchased_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-main-43:\\layout\\activity_purchased_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-mergeDebugResources-40:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-main-43:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-mergeDebugResources-40:\\layout\\activity_share_item.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.example.suitcase.app-main-43:\\layout\\activity_share_item.xml"
+    }
+]

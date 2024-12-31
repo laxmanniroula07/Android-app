@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270897074972",
+    "project_id": "suitcase-824a2",
+    "storage_bucket": "suitcase-824a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270897074972:android:ef3de6b7c7c2f5d2f660d9",
+        "android_client_info": {
+          "package_name": "com.example.Circuit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-SudmLHgV8iXVWpqoLGsq2Xjz_15m02M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
